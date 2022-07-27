@@ -1,4 +1,4 @@
-# Hi, my name is **Sergey Yurchenko**!
+## Hi, my name is **Sergey Yurchenko**!
 ## I am beginner *Front-end developer* from Kharkov, Ukraine.
 
 ### Languages and technologies:
@@ -17,7 +17,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
-###::postbox:Reach me on
+### :postbox: Reach me on
 
 <div id="badges">
 
