@@ -31,12 +31,6 @@
 </a>
 </div>
 
-<div>
-<a href="mailto:sergey.yurchenko.art@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-    
-</div>
 
 >Choose a job you love, and you will never have to work a day in your life.<br/>
 ***— Confucius***
