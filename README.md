@@ -1,5 +1,5 @@
 # Hi, my name is **Sergey Yurchenko**!
-## I am beginner *Front-end developer* from Kharkov, Ukrain.
+## I am beginner *Front-end developer* from Kharkov, Ukraine.
 
 ### Languages and technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,26 +16,22 @@
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+###::postbox:Reach me on
 
 <div id="badges">
+
     <a href="https://www.linkedin.com/in/sergey-yurchenko-02176a221/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin Badge"/>
     </a>
-    <a href="">
+    <a href="https://t.me/SergeyYurch">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
     </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" alt = "Viber Badge"/>
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "WhatsApp Badge"/>
+    
+    <a href="mailto:sergey.yurchenko.art@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
-    
-    
-
-### &#9993; Mail me: sergey.yurchenko.art@gmail.com
-
 
 
 >Choose a job you love, and you will never have to work a day in your life.<br/>
