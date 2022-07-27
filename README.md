@@ -1,4 +1,4 @@
-## Hi, my name is **Sergey Yurchenko**!
+# Hi, my name is **Sergey Yurchenko**!
 ## I am beginner *Front-end developer* from Kharkov, Ukraine.
 
 ### Languages and technologies:
