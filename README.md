@@ -19,20 +19,24 @@
 ---
 ### :postbox: Reach me on
 
-<div id="badges">
-
-    <a href="https://www.linkedin.com/in/sergey-yurchenko-02176a221/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin Badge"/>
-    </a>
-    <a href="https://t.me/SergeyYurch">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
-    </a>
-    
-    <a href="mailto:sergey.yurchenko.art@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
+<div id = "badges">
+<a href="https://www.linkedin.com/in/sergey-yurchenko-02176a221/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin Badge"/>
+</a>
+<a href="https://t.me/SergeyYurch">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
+</a>
+<a href="mailto:sergey.yurchenko.art@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
+<div>
+<a href="mailto:sergey.yurchenko.art@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+    
+</div>
 
 >Choose a job you love, and you will never have to work a day in your life.<br/>
 ***— Confucius***
