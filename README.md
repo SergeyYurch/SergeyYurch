@@ -1,5 +1,5 @@
 # Hi, my name is **Sergey Yurchenko**!
-## I am beginner *Front-end developer* from Kharkov, Ukraine.
+## I am *Back-end developer* from Kharkov, Ukraine.
 
 ### Languages and technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
