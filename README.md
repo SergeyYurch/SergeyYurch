@@ -1,12 +1,36 @@
 # Hi, my name is **Sergey Yurchenko**!
 ## I am *Back-end developer* from Kharkov, Ukraine.
 
+### Runtime Environment:
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- 
+### Programming Language:
+  - ECMAScript (ES6+) ![ES6+](https://img.shields.io/badge/-ES6%2B-yellow)
+  - TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+
+### Frameworks and Libraries:
+- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+- Nest.js ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
+- TypeORM ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
+- Mongoose ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
+
+### Databases:
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+- Redis ![Redis](https://img.shields.io/badge/-Redis-red)
+
+### Additional Tools and Technologies:
+- Git ![Git](https://img.shields.io/badge/-Git-orange)
+- RESTful API ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
+- JSON Web Tokens (JWT) ![JWT](https://img.shields.io/badge/-JWT-yellow)
+
 ### Languages and technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Badge](https://img.shields.io/badge/Node.js-Version-green)
+
 
 ![Nest.js](https://img.shields.io/badge/Nest.js-Framework-red)
 ![Badge](https://img.shields.io/badge/Express-Framework-green)
