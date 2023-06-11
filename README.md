@@ -6,23 +6,23 @@
 
 ### Programming Language:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 
 ### Frameworks and Libraries:
 - ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-- ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
-- ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
-- ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
+ ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
+ ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
+ ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
 
 ### Databases:
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+ ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
 ### Additional Tools and Technologies:
 - ![Git](https://img.shields.io/badge/-Git-orange)
-- ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
-- ![JWT](https://img.shields.io/badge/-JWT-yellow)
+ ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
+ ![JWT](https://img.shields.io/badge/-JWT-yellow)
 <!--
 ### Languages and technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
