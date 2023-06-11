@@ -44,9 +44,6 @@
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
--->
----
-### :postbox: Reach me on
 
 <div id = "badges">
 <a href="https://www.linkedin.com/in/sergey-yurchenko-02176a221/">
@@ -59,6 +56,14 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
+-->
+---
+### :postbox: Reach me on
+![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/SergeyYurch)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergey-yurchenko-02176a221)
+![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:sergey.yurchenko.art@gmail.com)
+
+
 
 ---
 
