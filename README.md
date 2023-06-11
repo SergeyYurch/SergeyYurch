@@ -60,9 +60,6 @@
 <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail" />
 </a>
 </div>
-![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/SergeyYurch)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergey-yurchenko-02176a221)
-![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:sergey.yurchenko.art@gmail.com)
 
 
 ---
