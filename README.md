@@ -63,7 +63,14 @@
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergey-yurchenko-02176a221)
 ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:sergey.yurchenko.art@gmail.com)
 
-
+### Additional Tools and Technologies:
+- ![Git](https://img.shields.io/badge/-Git-orange)
+- ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
+- ![JWT](https://img.shields.io/badge/-JWT-yellow)
+- ![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/your_username)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/your_username)
+- ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:your_email@example.com)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your_username)
 
 ---
 
