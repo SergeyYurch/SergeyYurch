@@ -2,29 +2,28 @@
 ## I am *Back-end developer* from Kharkov, Ukraine.
 
 ### Runtime Environment:
-- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- 
+- ![Node.js](https://img.shields.io/badge/-Node.js-green)
+
 ### Programming Language:
-  - ECMAScript (ES6+) ![ES6+](https://img.shields.io/badge/-ES6%2B-yellow)
-  - TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 
 ### Frameworks and Libraries:
-- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-- Nest.js ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
-- TypeORM ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
-- Mongoose ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
+- ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+- ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
+- ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
+- ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
 
 ### Databases:
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-- Redis ![Redis](https://img.shields.io/badge/-Redis-red)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
 ### Additional Tools and Technologies:
-- Git ![Git](https://img.shields.io/badge/-Git-orange)
-- RESTful API ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
-- JSON Web Tokens (JWT) ![JWT](https://img.shields.io/badge/-JWT-yellow)
-
+- ![Git](https://img.shields.io/badge/-Git-orange)
+- ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
+- ![JWT](https://img.shields.io/badge/-JWT-yellow)
+<!--
 ### Languages and technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +34,7 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-Framework-red)
 ![Badge](https://img.shields.io/badge/Express-Framework-green)
 
-<!--
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
