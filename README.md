@@ -45,32 +45,25 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div id = "badges">
-<a href="https://www.linkedin.com/in/sergey-yurchenko-02176a221/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Linkedin Badge"/>
-</a>
-<a href="https://t.me/SergeyYurch">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram Badge"/>
-</a>
-<a href="mailto:sergey.yurchenko.art@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
+
 -->
 ---
 ### :postbox: Reach me on
+<div id = "badges">
+<a href="https://www.linkedin.com/in/sergey-yurchenko-02176a221/">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt = "Linkedin Badge"/>
+</a>
+<a href="https://t.me/SergeyYurch">
+<img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram" alt = "Telegram Badge"/>
+</a>
+<a href="mailto:sergey.yurchenko.art@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-red?logo=gmail" />
+</a>
+</div>
 ![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/SergeyYurch)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sergey-yurchenko-02176a221)
 ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:sergey.yurchenko.art@gmail.com)
 
-### Additional Tools and Technologies:
-- ![Git](https://img.shields.io/badge/-Git-orange)
-- ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
-- ![JWT](https://img.shields.io/badge/-JWT-yellow)
-- ![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/your_username)
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/your_username)
-- ![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:your_email@example.com)
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your_username)
 
 ---
 
