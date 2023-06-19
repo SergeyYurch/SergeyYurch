@@ -7,7 +7,7 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 
-![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+ ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
  ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
  ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
  ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
