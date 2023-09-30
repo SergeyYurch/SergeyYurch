@@ -14,69 +14,25 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-![Microservices](https://img.shields.io/badge/-Microservices-brightgreen)
-![WebSockets](https://img.shields.io/badge/-WebSockets-blue)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red)
-![JWT](https://img.shields.io/badge/-JWT-yellow)
-![SASS](https://img.shields.io/badge/-SASS-pink)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![SASS](https://img.shields.io/badge/-SASS-pink)
 ![React.js](https://img.shields.io/badge/-React.js-blue)
 ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey)
 ![Jest](https://img.shields.io/badge/-Jest-brightgreen)
 ![Supertest](https://img.shields.io/badge/-Supertest-yellowgreen)
+
+![Microservices](https://img.shields.io/badge/-Microservices-brightgreen)
+![WebSockets](https://img.shields.io/badge/-WebSockets-blue)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red)
 ![Amazon Services](https://img.shields.io/badge/-Amazon%20Services-orange)
 ![OOP](https://img.shields.io/badge/-OOP-blue)
 ![DDD](https://img.shields.io/badge/-DDD-green)
 ![TDD](https://img.shields.io/badge/-TDD-yellowgreen)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- ![Node.js](https://img.shields.io/badge/-Node.js-green)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-
- ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
- ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
- ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
- ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
-
- ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-
- ![Git](https://img.shields.io/badge/-Git-orange)
- ![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
- ![JWT](https://img.shields.io/badge/-JWT-yellow)
+![Git](https://img.shields.io/badge/-Git-orange)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
+![JWT](https://img.shields.io/badge/-JWT-yellow)
 <!--
 ### Languages and technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
