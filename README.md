@@ -14,6 +14,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
@@ -31,7 +32,6 @@
 ![DDD](https://img.shields.io/badge/-DDD-green)
 ![TDD](https://img.shields.io/badge/-TDD-yellowgreen)
 ![Git](https://img.shields.io/badge/-Git-orange)
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-lightgrey)
 ![JWT](https://img.shields.io/badge/-JWT-yellow)
 <!--
 ### Languages and technologies:
