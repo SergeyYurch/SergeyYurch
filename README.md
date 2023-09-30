@@ -4,44 +4,44 @@
 
 ### Languages and technologies:
 
-- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 
-- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-- Nest.js ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
+![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+![Nest.js](https://img.shields.io/badge/-Nest.js-red)
 
 
-- TypeORM ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
-- PrismaORM ![PrismaORM](https://img.shields.io/badge/-PrismaORM-blueviolet)
-- Mongoose ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
+![PrismaORM](https://img.shields.io/badge/-PrismaORM-blueviolet)
+![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
-- Microservices ![Microservices](https://img.shields.io/badge/-Microservices-brightgreen)
-- WebSockets ![WebSockets](https://img.shields.io/badge/-WebSockets-blue)
-- RabbitMQ ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red)
+![Microservices](https://img.shields.io/badge/-Microservices-brightgreen)
+![WebSockets](https://img.shields.io/badge/-WebSockets-blue)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red)
 
-- JWT ![JWT](https://img.shields.io/badge/-JWT-yellow)
+![JWT](https://img.shields.io/badge/-JWT-yellow)
 
-- SASS ![SASS](https://img.shields.io/badge/-SASS-pink)
-- HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
-- CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![SASS](https://img.shields.io/badge/-SASS-pink)
+![HTML5](https://img.shields.io/badge/-HTML5-orange)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
 
-- React.js ![React.js](https://img.shields.io/badge/-React.js-blue)
-- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey)
+![React.js](https://img.shields.io/badge/-React.js-blue)
+![Next.js](https://img.shields.io/badge/-Next.js-lightgrey)
 
-- Jest ![Jest](https://img.shields.io/badge/-Jest-brightgreen)
-- Supertest ![Supertest](https://img.shields.io/badge/-Supertest-yellowgreen)
+![Jest](https://img.shields.io/badge/-Jest-brightgreen)
+![Supertest](https://img.shields.io/badge/-Supertest-yellowgreen)
 
-- Amazon Services ![Amazon Services](https://img.shields.io/badge/-Amazon%20Services-orange)
+![Amazon Services](https://img.shields.io/badge/-Amazon%20Services-orange)
 
-- Git ![Git](https://img.shields.io/badge/-Git-orange)
+![Git](https://img.shields.io/badge/-Git-orange)
 
-- OOP (Object-Oriented Programming) ![OOP](https://img.shields.io/badge/-OOP-blue)
-- DDD (Domain-Driven Design) ![DDD](https://img.shields.io/badge/-DDD-green)
-- TDD (Test-Driven Development) ![TDD](https://img.shields.io/badge/-TDD-yellowgreen)
+![OOP](https://img.shields.io/badge/-OOP-blue)
+![DDD](https://img.shields.io/badge/-DDD-green)
+![TDD](https://img.shields.io/badge/-TDD-yellowgreen)
 
 
 
