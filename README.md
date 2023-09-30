@@ -1,44 +1,31 @@
-# Hi, my name is **Sergey Yurchenko**!
-## I am *Back-end developer* from Kharkov, Ukraine.
-
+# **Sergey Yurchenko**!
+## *Backend developer*.
 
 ### Languages and technologies:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
-
-
 ![TypeORM](https://img.shields.io/badge/-TypeORM-orange)
 ![PrismaORM](https://img.shields.io/badge/-PrismaORM-blueviolet)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-purple)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-
 ![Microservices](https://img.shields.io/badge/-Microservices-brightgreen)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-blue)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-red)
-
 ![JWT](https://img.shields.io/badge/-JWT-yellow)
-
 ![SASS](https://img.shields.io/badge/-SASS-pink)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-
 ![React.js](https://img.shields.io/badge/-React.js-blue)
 ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey)
-
 ![Jest](https://img.shields.io/badge/-Jest-brightgreen)
 ![Supertest](https://img.shields.io/badge/-Supertest-yellowgreen)
-
 ![Amazon Services](https://img.shields.io/badge/-Amazon%20Services-orange)
-
-![Git](https://img.shields.io/badge/-Git-orange)
-
 ![OOP](https://img.shields.io/badge/-OOP-blue)
 ![DDD](https://img.shields.io/badge/-DDD-green)
 ![TDD](https://img.shields.io/badge/-TDD-yellowgreen)
